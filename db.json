@@ -1,5 +1,5 @@
 {
-    "bg": "https://wallpapercave.com/wp/wp2718622.jpg",
+    "bg": "https://wallpapercave.com/wp/wp2881564.jpg",
     "title": "Quiz CSS Without",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
@@ -31,7 +31,7 @@
     ],
     "theme": {
       "colors": {
-        "primary": "pink",
+        "primary": "#e91e63",
         "secondary": "#e8eaf6",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
