@@ -9,8 +9,8 @@ import QuizLogo from "../src/components/QuizLogo";
 import QuizBackground from "../src/components/QuizBackground";
 import Footer from "../src/components/Footer";
 import GitHubCorner from "../src/components/GitHubCorner";
-import Input from '../src/components/Input';
-import Button from '../src/components/Button'
+import Input from "../src/components/Input";
+import Button from "../src/components/Button";
 
 // const BackgroundImage = styled.div`
 //   background-image: url(${db.bg});
@@ -55,7 +55,9 @@ export default function Home() {
             >
               <Input
                 name="nomeDoUsuario"
-                onChange={(infosDoEvento) => setName(infosDoEvento.target.value)}
+                onChange={(infosDoEvento) =>
+                  setName(infosDoEvento.target.value)
+                }
                 placeholder="Diz ai seu nome"
                 value={name}
               />
